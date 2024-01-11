@@ -1,0 +1,10 @@
+emoji==2.9.0
+matplotlib==3.7.1
+nltk==3.8.1
+numpy==1.23.5
+optuna==3.5.0
+pandas==1.5.3
+scikit-learn==1.2.2
+scipy==1.11.4
+typing==3.7.4.3
+xgboost==2.0.3
