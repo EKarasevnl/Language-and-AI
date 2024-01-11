@@ -1,6 +1,6 @@
 # Language-and-AI
 
-# Usage guideline
+### Usage guideline
 
 In order to use the code, follow these 3 steps:
 
